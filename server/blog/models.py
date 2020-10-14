@@ -10,7 +10,7 @@ class Categories(models.TextChoices):
     NETWORK = "network"
     ALGORITHM = "algorithm"
     WEB = "web"
-    OS = "operating system"
+    OS = "operating-system"
     DESIGN = "design"
 
 
