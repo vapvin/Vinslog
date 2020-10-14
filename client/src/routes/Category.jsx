@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Link } from 'react-router-dom';
 
 
-export const Category = (porps) =>  {
+export const Category = (props) =>  {
     const [blogs, setBlogs] = useState([]);
     const [currentCategory, setCurrentCategory] = useState('');
 
