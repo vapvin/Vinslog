@@ -83,12 +83,12 @@ const Blog = () => {
         <div className="container mt-3">
             <div className="nav-scroller py-1 mb-2">
                 <nav className="nav d-flex justify-content-between">
-                    <Link className="p-2 text-muted" to="/category/world">Pentesting</Link>
-                    <Link className="p-2 text-muted" to="/category/environment">Reversing</Link>
-                    <Link className="p-2 text-muted" to="/category/technology">Shell</Link>
-                    <Link className="p-2 text-muted" to="/category/design">Network</Link>
-                    <Link className="p-2 text-muted" to="/category/culture">Algorithm</Link>
-                    <Link className="p-2 text-muted" to="/category/business">Web</Link>
+                    <Link className="p-2 text-muted" to="/category/pentesting">Pentesting</Link>
+                    <Link className="p-2 text-muted" to="/category/reversing">Reversing</Link>
+                    <Link className="p-2 text-muted" to="/category/shell">Shell</Link>
+                    <Link className="p-2 text-muted" to="/category/network">Network</Link>
+                    <Link className="p-2 text-muted" to="/category/algorithm">Algorithm</Link>
+                    <Link className="p-2 text-muted" to="/category/web">Web</Link>
                     <Link className="p-2 text-muted" to="/category/operating-system">Operating System</Link>
                     <Link className="p-2 text-muted" to="/category/design">Design</Link>
                 </nav>
