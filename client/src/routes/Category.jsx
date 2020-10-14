@@ -93,3 +93,5 @@ export const Category = (porps) =>  {
         </div>
     );
 };
+
+export default Category;
